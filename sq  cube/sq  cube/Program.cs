@@ -19,9 +19,10 @@ namespace sq__cube
             Console.WriteLine(">>> for loop <<<");
             for (int i = 0; i <= 10; i++) 
             {
-                Console.WriteLine($"{i}\t{i * i}\t{i * i * i*i}");
+                Console.WriteLine($"{i}\t{i * i}\t{i * i * i}");
             }
-
+           
+            
 
 
 
